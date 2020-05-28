@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "api-res": "^0.0.8",
-    "async": "^2.0.1",
+    "async": "^3.2.0",
     "chalk": "^1.1.3",
     "cmnd": "~0.3.0",
     "functionscript": "^1.2.6",
